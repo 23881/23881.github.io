@@ -1,0 +1,6 @@
+~ $ git clone https://github.com/username/username.github.io
+cd 23881.github.io
+~$ echo "Hello World" > indexpoltitiek.html
+~$ git add .
+~$ git commit -m "Initial commit"
+~$ git push -u origin master
